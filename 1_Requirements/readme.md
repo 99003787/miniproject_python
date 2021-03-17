@@ -1,3 +1,29 @@
+##  High level Requirements:
+| ID | Requirements | Description | Status |
+| --- | --- | --- | --- |
+| HLR01 | Excel WorkBook | WorkBook contains 5 worksheets with one MasterSheet | Implementing |
+| HLR02 | User Inputs | Inputs like Name,PsNo,Email Id | Implementing |
+| HLR03 | Read & Write | Reading from existing sheets and writing to MasterSheet | Implementing |
+
+
+
+##  Low level Requirements:
+
+ 
+
+| ID | Requirements | Description | Status |
+| --- | --- | --- | --- |
+| HLR01-LR1 | Data Collection | 
+
+
+
+
+
+
+
+
+
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
